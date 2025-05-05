@@ -266,3 +266,24 @@
   .additional-info__languages-item {
 	color: var(--secondary-text-color);
   }
+
+
+  /* Footer styles */
+
+  .footer {
+	background-color: #f5f5f5;
+	padding: 20px 0;
+	border-top: 1px solid #e0e0e0;
+  }
+  
+  .footer__text {
+	text-align: center;
+	color: var(--secondary-text-color);
+	font-size: 0.875rem;
+  }
+  
+  .footer__text:last-child {
+	margin-top: 10px;
+	color: var(--durability-text-color);
+  }
+  
